@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="134d2eb5-9293-4760-bebc-aee53cb2193c.png" alt="Iridescent Fisherman Logo" width="200">
+  <img src="134d2eb5-9293-4760-bebc-aee53cb2193c.png" alt="Iridescent Fisherman Logo" width="500">
 </p>
 
 # Hey, I'm Joshua Sefers~ 👋
