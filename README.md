@@ -1,14 +1,37 @@
-Hello~ my name is Joshua Sefers
+<p align="center">
+  <img src="iridescent_fisherman_logo.png" alt="Iridescent Fisherman Logo" width="200">
+</p>
 
-  I'm just a Fisherman learning to Code 
-  Currently im in a Coding program at UCSC and hope to be landing a job within the next year!
-  Follow me on my coding Journey!
+# Hey, I'm Joshua Sefers~ 👋
 
-I'm always interested in learning new things~
+🎣 Fishing for knowledge under the iridescent skies of curiosity. 🌌
 
-Feel free to reach out to me @ rin.joshua@gmail.com for any form of collaboration
+## About Me
 
-Main languages and interests
+🌟 Embarking on journeys through code and creativity, I find solace in the art of exploration. Mixing code with imagination, I create digital constellations in the vast universe of possibilities.
 
-Django, Python C++ C Java HTML CSS W/ Bootstrap
+## Skills
 
+- 💻 Illuminating Code: Python, JavaScript, C++, C
+- 🌐 Web Crafting: HTML, CSS, DJango
+- 📊 Data Starships: Pandas, SQL
+- ⚙️ Other Tools: Git, VS Code
+
+## Projects
+- 
+## Open Source Odyssey
+
+
+## Get in Touch
+
+🌌 Reach out to me among the stars:
+
+- rin.joshua@gmail.com
+
+## Celestial Serenades
+
+🎵 As I code, the cosmos sings its symphony.
+
+
+
+Let's voyage together through the universe of innovation!
